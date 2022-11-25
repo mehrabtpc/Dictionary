@@ -1,0 +1,27 @@
+﻿/**
+*
+*	Name:			IRANYekanX Fonts
+*	Version:			2.4
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		Aug 02, 2022
+*	Updated on:		Aug 02, 2022
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونت ایران یکان X  یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+IRANYekanX fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (FZ5PPH)
+------------------------------------------------------------------------------------- fonts/-
+*
+**/
+@font-face {
+    font-family: "IRANYekanX";
+    src: url("/fonts/iranyekanx/IRANYekanXVF.woff");
+}
+
+@font-face {
+    font-family: "IRANYekanX";
+    src: url("/fonts/iranyekanx/IRANYekanXVF.woff2");
+}

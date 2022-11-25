@@ -1,0 +1,58 @@
+*{
+    font-family: IRANYekanX ;
+}
+
+.ltr{
+    direction: ltr !important;
+    text-align: left !important;
+}
+
+.rtl{
+    direction: rtl !important;
+    text-align: right !important;
+}
+
+p{
+    font-size: 18px !important;
+}
+.inline{
+    display: inline !important;
+}
+
+.answer{
+    border: 1px solid #939393;
+    margin-bottom: 2px;
+    text-shadow: #585c5f;
+    border-radius: 2px;
+}
+
+.disabledLink{
+    pointer-events: none;
+    cursor: default;
+    color: gray !important;
+}
+
+.disabledLink{
+    pointer-events: none;
+    cursor: default;
+    color: gray !important;
+}
+
+label,.card-header{
+    font-weight: bold !important;
+}
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.text-bold{
+    font-weight: bold !important;
+}
+.card-title{
+    font-weight: bold;
+}
